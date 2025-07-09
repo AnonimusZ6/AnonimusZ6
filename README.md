@@ -5,8 +5,8 @@
 ## 🛠 Core Expertise
 
 ### 🔧 Technical Skills
-- **Frontend**: React.js, TypeScript, Redux, Material-UI
-- **Backend**: Node.js, Express, NestJS
+- **Frontend**: React.js, TypeScript, Material-UI
+- **Backend**: Node.js, Express
 - **Databases**: PostgreSQL, MongoDB
 - **DevOps**: CI/CD (GitHub Actions), Docker, AWS Basics
 - **Specialization**: Enterprise CRM Systems Development
@@ -32,10 +32,6 @@
 ✔ Advanced business analytics modules  
 ✔ CI/CD implementation  
 
-### [Other Project](https://github.com/yourusername/project2)
-✔ Key feature 1  
-✔ Key feature 2  
-
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonimusZ6&show_icons=true&theme=radical&hide_title=true)
@@ -43,7 +39,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonimusZ6&layout=compact&theme=radical)
 
 ## 🔍 Currently Exploring
-- Microservices architecture
 - Advanced TypeScript patterns
 - Serverless technologies
 
