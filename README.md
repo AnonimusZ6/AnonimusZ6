@@ -27,7 +27,7 @@
 
 ## 🚀 Featured Projects
 
-### [Enterprise CRM System](https://github.com/yourusername/crm-project)
+### [Enterprise CRM System](https://github.com/AnonimusZ6/CRMX)
 ✔ End-to-end development  
 ✔ Advanced business analytics modules  
 ✔ CI/CD implementation  
